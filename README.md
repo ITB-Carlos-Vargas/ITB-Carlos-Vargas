@@ -8,7 +8,7 @@ I'm immersed in the exciting world of apps development, honing my skills and exp
 📫 **Connect with Me:**
 Feel free to reach out and connect with me on LinkedIn. I'm always open to networking and engaging in conversations related to web development, technology, and more. You can also contact me through my email.
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 [![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosandrespote@gmail.com)
 
 ## ⚙️ Skills & Technologies
@@ -18,6 +18,7 @@ Feel free to reach out and connect with me on LinkedIn. I'm always open to netwo
 ![NodeJS Badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Android_Estudio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
