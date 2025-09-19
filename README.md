@@ -6,7 +6,7 @@ Passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelo
 I'm immersed in the exciting world of apps development, honing my skills and expanding my knowledge in the realm of creating applications.
 
 📫 **Connect with Me:**
-Feel free to reach out and connect with me on LinkedIn. I'm always open to networking and engaging in conversations related to web development, technology, and more. You can also contact me through my email.
+Feel free to reach out and connect with me. I'm always open to networking and engaging in conversations related to app development, technology, and more. 
 
 
 [![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosandrespote@gmail.com)
